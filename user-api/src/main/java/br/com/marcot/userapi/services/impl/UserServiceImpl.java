@@ -6,7 +6,6 @@ import br.com.marcot.userapi.services.UserService;
 import br.com.marcot.userapi.services.exceptions.ObjectNotFoundException;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.stereotype.Service;
 
